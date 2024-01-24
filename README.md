@@ -26,6 +26,5 @@ flask db upgrade
 flask load_questions
 flask run
 ```
-
 ### Автор
 AlexGriv https://github.com/AlexGriv
