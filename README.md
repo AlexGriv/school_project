@@ -1,4 +1,4 @@
-# school_project
+# School_project
 Мини-проект для прохождения тестирования профпригодности по методике Е.А.Климова для школы:
 
 ## Технологии
@@ -22,7 +22,6 @@ python -m venv venv
 flask db init
 flask db migrate -m "Name migration"
 flask db upgrade
-```
 flask load_questions
 flask run
 ```
